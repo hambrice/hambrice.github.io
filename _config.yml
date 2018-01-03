@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Code Less Traveled
 header-img: img/home-bg.png
 email: hambrice@uab.edu
 copyright_name: hambrice
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Figuring out my next steps in life, one error message at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hambrice
