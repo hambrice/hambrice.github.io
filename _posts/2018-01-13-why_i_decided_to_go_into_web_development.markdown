@@ -1,0 +1,25 @@
+---
+layout: post
+title:      "Why I decided to go into web development"
+date:       2018-01-14 00:34:23 +0000
+permalink:  why_i_decided_to_go_into_web_development
+---
+
+
+When I was in physical therapy school (and while working as a physical therapist), it was a common question to hear: "What made you decide to become a physical therapist?" A lot of my classmates had inspiring stories of their own recovery journeys as injured student-athletes, or their experiences with loved ones that had gone through therapy. I bring that up to say that I'm no stranger to people asking "Why are you doing this?" 
+
+Unfortunately, rather it be my decision to go to physical therapy school or my decision to change careers to coding, the truth is that I don't have much of an inspiring story. I'm not really sure why I feel guilty about this. It's as if I equate an ability to work in a given field with how likely your origin story could be turned into a summer blockbuster (and I doubt "Because-I-Needed-To-Pick-A-Major-In-Undergrad Man" is going to sell very many tickets.)
+
+After nearly a year of working as a physical therapist, I found myself frustrated, confused, and exhausted. I love the idea of being a physical therapist: I love anatomy; I love helping people; and I love getting to teach others in a way to improve their own independence. But to be frank, healthcare is a difficult field to work in right now, and I found it very difficult not to take on every problem that my patients possessed, whether they be physical or not. Every day I found myself coming home mentally drained and unable to fend off a creeping thought: "What would I do instead?" Truthfully, I didn't feel like I had many options.
+
+One day (a particularly long and difficult day at that), I felt compelled to actually do some kind of research to answer that nagging question. Unsure of where to begin, I did what any modern-day 20-something would likely do when faced with an insurmountable problem: I did a google search. "Best careers for INTPs" was the search term, hoping my Myers-Brigg type would somehow possess all the information needed to unlock my future potential. 
+
+If you've never conducted a search inquiry for "Best careers for INTPs", I can give you a pretty brief summary: the first four options listed literally include the word "computer", and the rest either have something to do with computers or data itself. A google search does not a destiny create, and I would like to think my personality is vast enough to not easily be summarized in four capitalized letters. Yet it was still difficult not to feel like there was something I had missed. Programming, data science, software engineering,etc... These were all areas that I had just never even considered. And the more I mulled over this idea, the more it just seemed to fit. 
+
+As a kid, I loved building Legos. But what might have been a little different for me was that I didn't necessarily enjoy pouring out a box of miscellaneous pieces and letting my imagination run wild. I loved the ones that came with instructions: a systematic, stream-lined process to creating something greater than the sum of its parts. This love for systems, for order, is a trait that has permeated my entire life. My brain functions off of efficiency.  I have a route planned to my gym that minimizes wait times at intersections. I didn't consciously decide to make it. It's just what my brain does. And the more I thought about it, the more I realized that this need for systematic processes is one of the reasons why physical therapy was so draining for me personally: there were rarely, if ever, correct answers. There's research, there's evidence-based practice, but at the end of the day it's still a lot of theories that can be very difficult if not impossible to apply to a patient's unique presentation and situation. 
+
+This isn't to say that I look down on the field of physical therapy now. On the contrary, I hold it in a high regard because I have an appreciation for what a great physical therapist has to do. They have to function within the gray, making sense of messy situations and pulling out the best that they can for their patients. Working inside this gray area was difficult for me to accomplish, because I kept wanting to pull it a part so everything was just black and white and it frustrated me every day that I couldn't achieve that. And the more I researched programming and began learning the concepts, the more the whole thing clicked for me. 
+
+So why did I decide to go into web development? In truth, I think my answer is a dynamic one; one that will change and take on different meaning with hindsight. But what I can confidently say is that even in the frustrating moments ("This code was LITERALLY JUST WORKING HOW IS IT BROKEN NOW?") I have enjoyed every minute of it. I don't look back on my time as a physical therapist with regret. I learned a lot about myself and gained valuable interpersonal skills while working with patients that I intend to keep with me wherever my career takes me. For now though, I can confidently say that I cannot wait to see where I get to go from here. 
+
+
