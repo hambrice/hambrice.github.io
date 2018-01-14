@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I decided to go into web development"
-date:       2018-01-14 00:34:23 +0000
+title:      "'I Have No IDE What I'm Doing': Why I decided to go into web development"
+date:       2018-01-13 19:34:24 -0500
 permalink:  why_i_decided_to_go_into_web_development
 ---
 
