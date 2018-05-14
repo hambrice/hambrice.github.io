@@ -32,6 +32,7 @@ However, one important concept that I didn't fully comprehend previously was wha
 
 `var x = 100;
 function hoist() {
+ // A condition that should not affect the outcome of the code
   if (false) {
     var x = 200;
   }
