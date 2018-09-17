@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Space: The Complex Frontier"
-date:       2018-09-17 23:01:52 +0000
+date:       2018-09-17 19:01:53 -0400
 permalink:  space_the_complex_frontier
 ---
 
